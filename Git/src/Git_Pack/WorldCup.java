@@ -4,7 +4,7 @@ public class WorldCup {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("New Zealand won the world cup");
+		System.out.println("Zimbabwe won the world cup");
 	}
 
 }
